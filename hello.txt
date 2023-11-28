@@ -3,11 +3,6 @@ hello git
 hello git
 hello git
 hello git
-hello git
-hello git
-hello git
-hello git
-hello git
 hello liunx
 hello centos
 hello v2
